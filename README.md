@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lekh
+- 👋 Hi, I’m lekh.
+  
 
 <!---
 lekhRazz/lekhRazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
